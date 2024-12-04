@@ -4,11 +4,7 @@
     padding: 0;
 }
 
-* {
-    -webkit-tap-highlight-color: transparent;
-}
-
-button:focus, a:focus {
+button:focus {
     outline: none;
 }
 
